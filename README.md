@@ -14,10 +14,15 @@ Principales propiedades del objeto Math en JavaScript:
 ## 1. Constantes matemáticas:
 
 π (Math.PI): Proporciona el valor de pi (aproximadamente 3.14159).
+
 e (Math.E): Proporciona el valor del número de Euler (aproximadamente 2.71828).
+
 LN2: Proporciona el logaritmo natural de 2.
+
 LN10: Proporciona el logaritmo natural de 10.
+
 SQRT2: Proporciona la raíz cuadrada de 2.
+
 SQRT1_2: Proporciona la raíz cuadrada de 1/2.
 
 ## 2. Métodos matemáticos:
